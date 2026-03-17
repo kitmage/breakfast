@@ -1,0 +1,36 @@
+# Breakfast Recipe Cards
+
+Structured recipe cards derived from the 30-day breakfast plan in `README.md`.
+
+## Recipe Files
+
+- Day 01: [Steel-Cut Oats with Berries and Ground Flax](./day-01-steel-cut-oats-berries-flax.md)
+- Day 02: [Savory Lentil and Oat Porridge with Poached Egg](./day-02-savory-lentil-oat-porridge-egg.md)
+- Day 03: [Overnight Chia Pudding with Walnuts](./day-03-overnight-chia-pudding-walnuts.md)
+- Day 04: [Avocado Toast on Sprouted Grain Bread](./day-04-avocado-toast-sprouted-bread.md)
+- Day 05: [Veggie Omelet Muffins with Fresh Pear](./day-05-veggie-omelet-muffins-pear.md)
+- Day 06: [Apple and Nut Crumble Oatmeal](./day-06-apple-nut-crumble-oatmeal.md)
+- Day 07: [Savory Chickpea Scramble on Whole Wheat Toast](./day-07-savory-chickpea-scramble-toast.md)
+- Day 08: [Black Bean and Sweet Potato Breakfast Burrito](./day-08-black-bean-sweet-potato-burrito.md)
+- Day 09: [Warm Breakfast Barley with Blueberries and Honey](./day-09-warm-breakfast-barley-blueberries.md)
+- Day 10: [Spinach and Feta Tofu Scramble with Whole Wheat Bagel](./day-10-spinach-feta-tofu-scramble-bagel.md)
+- Day 11: [Mediterranean Breakfast Plate](./day-11-mediterranean-breakfast-plate.md)
+- Day 12: [Microwave Egg in a Cup with Asparagus and Bell Peppers](./day-12-egg-in-a-cup-asparagus-peppers.md)
+- Day 13: [Smoothie Bowl with Oats, Banana, and Peanut Butter](./day-13-smoothie-bowl-oats-banana-pb.md)
+- Day 14: [Indian-Style Spiced Oatmeal (Upma Style)](./day-14-indian-spiced-oatmeal-upma.md)
+- Day 15: [Plant Sterol-Fortified Cereal with Soy Milk](./day-15-sterol-cereal-soy-milk-banana.md)
+- Day 16: [Buckwheat Porridge with Cacao and Strawberries](./day-16-buckwheat-porridge-cacao-strawberries.md)
+- Day 17: [Quinoa and Egg White Breakfast Bake](./day-17-quinoa-egg-white-breakfast-bake.md)
+- Day 18: [Nutty Overnight Oats with Sterol-Fortified Spread](./day-18-nutty-overnight-oats-sterol-toast.md)
+- Day 19: [Poached Eggs over White Bean and Kale Saute](./day-19-poached-eggs-white-bean-kale.md)
+- Day 20: [Pumpkin and Flaxseed Smoothie with Greek Yogurt](./day-20-pumpkin-flaxseed-smoothie-yogurt.md)
+- Day 21: [Savory Buckwheat Breakfast Bars](./day-21-savory-buckwheat-breakfast-bars.md)
+- Day 22: [Tropical Smoothie Bowl with Avocado and Hemp Seeds](./day-22-tropical-smoothie-bowl-avocado-hemp.md)
+- Day 23: [Tofu and Mushroom Breakfast Skillet with Whole Wheat Toast](./day-23-tofu-mushroom-breakfast-skillet.md)
+- Day 24: [Whole Wheat Blender Waffles with Raspberry Compote](./day-24-whole-wheat-blender-waffles-raspberry-compote.md)
+- Day 25: [Chickpea and Spinach Breakfast Burrito](./day-25-chickpea-spinach-breakfast-burrito.md)
+- Day 26: [Hard-Boiled Eggs with Seed Crackers and Pear](./day-26-hard-boiled-eggs-seed-crackers-pear.md)
+- Day 27: [Savory Oat and Lentil Porridge with Nutritional Yeast](./day-27-savory-oat-lentil-porridge-nutritional-yeast.md)
+- Day 28: [Berry Bliss Overnight Oats with Almonds](./day-28-berry-bliss-overnight-oats-almonds.md)
+- Day 29: [Avocado and Black Bean Toast with Crushed Red Pepper](./day-29-avocado-black-bean-toast.md)
+- Day 30: [Veggie Omelet with Sterol-Fortified Orange Juice](./day-30-veggie-omelet-sterol-oj.md)
