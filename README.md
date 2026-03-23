@@ -36,3 +36,7 @@
 # ​Pantry & Freezer Staples to Keep on Hand:
 ​Freezer: Whole grain bread, tortillas, frozen berries, frozen bananas, frozen spinach.
 ​Pantry: Rolled/steel-cut oats, quinoa, chia seeds, ground flaxseed, walnuts, almonds, peanut butter, single-serve shelf-stable milk boxes, powdered milk, canned beans, avocados, apples, whole eggs.
+
+## Website
+
+A simple GitHub Pages-ready website is available in [`docs/`](./docs/) with a separate page for every recipe card and beginner-friendly cooking guidance. Open [`docs/index.html`](./docs/index.html) locally or publish the `docs/` folder with GitHub Pages.
