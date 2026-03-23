@@ -1,7 +1,6 @@
 ​The Cholesterol-Busting, Fridge-Free-Dairy Rotation
 
-​# Day 1: The Heart-Health Classic (Oatmeal)
-
+​# Day 1: The Heart-Health Classic(Oatmeal)
 ​The Meal: Rolled or steel-cut oats made with boiling water or a single-serve shelf-stable milk box (like UHT dairy or oat milk).
 
 ​The Mix-ins: Stir in a tablespoon of ground flaxseed or chia seeds (massive soluble fiber boost), a handful of walnuts (healthy fats), and frozen blueberries (thawed directly into the hot oats).
