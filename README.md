@@ -23,6 +23,7 @@ Day 4: Southwestern Bean & Egg White Scramble
 ​The Meal: Quinoa isn't just for dinner! Warm up pre-cooked quinoa (you can batch-cook this and freeze it in portions, then microwave it).
 ​The Mix-ins: Pour a little hot water over it to loosen it up, then stir in diced fresh apples, a heavy dash of cinnamon, and pecans. Apples contain pectin, a specific type of soluble fiber proven to lower LDL cholesterol.
 ​
+
 Day 6: Freezer-Friendly Breakfast Burrito
 ​The Meal: A whole-wheat tortilla filled with scrambled eggs, pinto beans, and roasted sweet potatoes.
 ​The Hack: You can batch-make these on the weekend, wrap them in foil, and keep them in the freezer. Just unwrap, put on a microwave-safe plate, and microwave until hot. No fresh dairy required, and the beans/sweet potato combo is a fiber powerhouse.
